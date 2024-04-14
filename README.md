@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuruSantosh
-- 👀 I’m interested in datascience,ai,cloud 
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on cloud and datascience projects
+- 👀 I’m interested in cloud 
+- 🌱 I’m currently learning GO
+- 💞️ I’m looking to collaborate on cloud 
 - 📫 How to reach me d.vns.gurusantosh11@gmail.com
 
 
