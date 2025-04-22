@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm VNSGSantosh Darbha</h1>
 <h3 align="center">Dynamic and results-driven Cloud Engineer with 3 years of professional experience specializing in AWS cloud services and Dynatrace-based monitoring solutions. Adept at automating deployments, optimizing infrastructure, and ensuring high availability and reliability of cloud-native applications. Proven ability to collaborate across teams to deliver robust DevOps and SRE practices in fast-paced environments.</h3>
+<td>
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="right">
+    </td>
 
 - 🌱 I’m currently learning **Golang, Docker , terraform**
 
