@@ -1,19 +1,98 @@
-<h1 align="center">Hi 👋, I'm VNSGSantosh Darbha</h1>
-<h3 align="center">Dynamic and results-driven Cloud Engineer with 3 years of professional experience specializing in AWS cloud services and Dynatrace-based monitoring solutions. Adept at automating deployments, optimizing infrastructure, and ensuring high availability and reliability of cloud-native applications. Proven ability to collaborate across teams to deliver robust DevOps and SRE practices in fast-paced environments.</h3>
-<td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="right">
-    </td>
+<div align="center">
 
-- 🌱 I’m currently learning **Golang, Docker , terraform**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Santosh%20Darbha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20Platform%20%7C%20OSS%20Contributor&descAlignY=58&descSize=18" width="100%"/>
 
-- 💬 Ask me about **Jenkins, GitLab CI, Terraform, Docker, AWS CloudFormation**
+</div>
 
-- 📫 How to reach me **darbhasantosh11@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vnsgsantosh-darbha-8059ba1a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgh%2Fo6VxFQByvZyn%2BQblNww%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vnsgsantosh-darbha-8059ba1a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgh%2Fo6VxFQByvZyn%2BQblNww%3D%3D" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%7C+SRE+%7C+Platform+Engineering;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Go;Open+Source+Contributor;Building+developer+tools+%26+homelab+systems)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+### About Me
+
+- Cloud & Platform Engineer with 3+ years building production-grade cloud infrastructure
+- Specialising in **AWS**, **Kubernetes**, **Observability**, and **DevOps automation**
+- Currently contributing to open-source projects: [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python), [agones](https://github.com/agones-dev/agones)
+- Building a [homelab](https://github.com/santoshguru-11/homelab) automation suite — OSS daily contributions, AI-powered tools, Raspberry Pi cluster
+- Learning: **Go**, **eBPF**, **Platform Engineering patterns**
+- Reach me at **darbhasantosh11@gmail.com**
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**DevOps & Observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshguru-11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshguru-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=santoshguru-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### Open Source Contributions
+
+| Project | PR | Status |
+|---|---|---|
+| [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) | [Add missing metrics view cookbook scenarios](https://github.com/open-telemetry/opentelemetry-python/pull/5263) | Open |
+| [agones-dev/agones](https://github.com/agones-dev/agones) | [Promote RollingUpdateFix to Stable](https://github.com/agones-dev/agones/pull/4597) | Open |
+| [agones-dev/agones](https://github.com/agones-dev/agones) | [Upgrade website to Docsy 0.15.0](https://github.com/agones-dev/agones/pull/4598) | Open |
+| [agones-dev/agones](https://github.com/agones-dev/agones) | [Promote PortPolicyNone to Stable](https://github.com/agones-dev/agones/pull/4599) | Open |
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnsgsantosh-darbha-8059ba1a9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darbhasantosh11@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
