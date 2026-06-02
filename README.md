@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Cloud & Platform Engineer with 3+ years building production-grade cloud infrastructure
+- Cloud & Platform Engineer with 4+ years building production-grade cloud infrastructure
 - Specialising in **AWS**, **Kubernetes**, **Observability**, and **DevOps automation**
 - Currently contributing to open-source projects: [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python), [agones](https://github.com/agones-dev/agones)
 - Building a [homelab](https://github.com/santoshguru-11/homelab) automation suite — OSS daily contributions, AI-powered tools, Raspberry Pi cluster
